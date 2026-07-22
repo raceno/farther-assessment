@@ -1,4 +1,4 @@
-# Farther — Financial Data Ingestion & Portfolio Viewer
+# Financial Data Ingestion & Portfolio Viewer
 
 A full-stack take-home: a webhook-driven service that ingests client account data
 from ZIP files into a relational database, plus a UI for inspecting the nested
