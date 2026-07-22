@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+venv*/
+.venv/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Env / local
+.env
+.env.*
+!.env.example
+
+# Database
+*.db
+
+# Node / frontend
+node_modules/
+frontend/dist/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
